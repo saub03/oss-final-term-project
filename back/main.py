@@ -42,10 +42,27 @@ with open(JSON_PATH, "r", encoding="utf-8") as f:
 async def recommend_repertoire(user_input: GuitarInput):
     scored_songs = []
     
+    level_map = {"입문": 1, "초급": 2, "중급": 3, "고급": 4}
+    user_level = level_map.get(user_input.proficiency, 1)
+    
     for song in SONG_DB:
         score = 0
-        if user_input.proficiency == "초급" and song["difficulty"] == "고급":
+        song_level = level_map.get(song["difficulty"], 1)
+        
+        if song_level - user_level >= 2:
             continue 
+            
+        if user_level <= 2 and song_level <= 2:
+            score += 2
+        elif user_level >= 3 and song_level >= 3:
+            score += 2
+            
+        if user_input.desired_difficulty == "쉬움" and song_level <= user_level:
+            score += 3
+        elif user_input.desired_difficulty == "적절함" and song_level == user_level:
+            score += 3
+        elif user_input.desired_difficulty == "도전적" and song_level == user_level + 1:
+            score += 3
             
         if user_input.technique in song["technique"]: score += 2
         if user_input.mood in song["mood"]: score += 2
