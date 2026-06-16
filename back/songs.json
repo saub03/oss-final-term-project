@@ -1,0 +1,342 @@
+[
+    {
+        "title": "Vals Venezolano No. 3 (Natalia)",
+        "composer": "Antonio Lauro",
+        "difficulty": "고급",
+        "technique": ["아르페지오", "화음"],
+        "mood": ["경쾌함", "남미풍"],
+        "length": "짧음(3분 미만)",
+        "description": "다양한 리듬감과 화성적 색채가 돋보이는 곡으로, 빠른 아르페지오와 탄탄한 리듬감이 필요합니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Antonio+Lauro+Vals+Venezolano+No.3"
+    },
+    {
+        "title": "Recuerdos de la Alhambra",
+        "composer": "Francisco Tárrega",
+        "difficulty": "고급",
+        "technique": ["트레몰로"],
+        "mood": ["서정적임", "우수에 찬"],
+        "length": "보통(3~5분)",
+        "description": "클래식 기타의 꽃이라 불리는 트레몰로 주법의 최고봉입니다. 끊임없는 물결 같은 소리가 특징입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Recuerdos+de+la+Alhambra+guitar"
+    },
+    {
+        "title": "Romanza (Romance d'Amour)",
+        "composer": "Anonymous",
+        "difficulty": "초급",
+        "technique": ["아르페지오"],
+        "mood": ["서정적임", "우수에 찬"],
+        "length": "짧음(3분 미만)",
+        "description": "기타 입문자들의 필수 코스이자 아름다운 멜로디를 가진 아르페지오 연습곡입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Romance+Anonymous+guitar"
+    },
+    {
+        "title": "Asturias (Leyenda)",
+        "composer": "Isaac Albéniz",
+        "difficulty": "고급",
+        "technique": ["스케일", "아르페지오"],
+        "mood": ["웅장함", "경쾌함"],
+        "length": "긺(5분 이상)",
+        "description": "스페인의 열정이 느껴지는 매우 빠르고 웅장한 곡입니다. 체력과 고도의 테크닉이 요구됩니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Asturias+guitar+John+Williams"
+    },
+    {
+        "title": "Capricho Árabe (아라비아 기상곡)",
+        "composer": "Francisco Tárrega",
+        "difficulty": "고급",
+        "technique": ["스케일", "화음"],
+        "mood": ["서정적임", "우수에 찬"],
+        "length": "긺(5분 이상)",
+        "description": "아름답고 서정적인 멜로디와 함께 아라비아풍의 이국적인 분위기를 자아내는 타레가의 대표작입니다. 섬세한 감정 표현이 중요합니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Capricho+Arabe+guitar"
+    },
+    {
+        "title": "Cavatina (카바티나)",
+        "composer": "Stanley Myers",
+        "difficulty": "중급",
+        "technique": ["아르페지오", "화음"],
+        "mood": ["서정적임"],
+        "length": "보통(3~5분)",
+        "description": "영화 '디어 헌터'의 테마곡으로 널리 알려진 곡입니다. 잔잔하고 부드러운 아르페지오 패턴과 바레 코드 연속 이동 연습에 아주 좋습니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Cavatina+guitar+John+Williams"
+    },
+    {
+        "title": "Lágrima (눈물)",
+        "composer": "Francisco Tárrega",
+        "difficulty": "중급",
+        "technique": ["아르페지오", "화음"],
+        "mood": ["서정적임", "우수에 찬"],
+        "length": "짧음(3분 미만)",
+        "description": "'눈물'이라는 뜻을 가진 아름다운 소품입니다. 짧지만 애절한 선율이 돋보이며, 하이 포지션에서의 멜로디 연주를 익히기 좋은 필수 연습곡입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Lagrima+guitar"
+    },
+    {
+        "title": "El Marabino (엘 마라비노)",
+        "composer": "Antonio Lauro",
+        "difficulty": "중급",
+        "technique": ["아르페지오", "스케일"],
+        "mood": ["경쾌함", "남미풍"],
+        "length": "짧음(3분 미만)",
+        "description": "안토니오 라우로 특유의 톡톡 튀는 왈츠 리듬감과 화사한 멜로디가 매력적인 곡입니다. 싱코페이션(당김음)을 살리는 것이 포인트입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=El+Marabino+guitar"
+    },
+    {
+        "title": "La Catedral (대성당)",
+        "composer": "Agustín Barrios Mangoré",
+        "difficulty": "고급",
+        "technique": ["아르페지오", "스케일"],
+        "mood": ["웅장함", "우수에 찬"],
+        "length": "긺(5분 이상)",
+        "description": "바흐에 대한 오마주로 작곡된 곡으로, 고요한 경건함과 폭발적인 아르페지오가 어우러져 대성당의 장엄함을 완벽히 묘사합니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=La+Catedral+guitar"
+    },
+    {
+        "title": "Adelita (아델리타)",
+        "composer": "Francisco Tárrega",
+        "difficulty": "초급",
+        "technique": ["화음"],
+        "mood": ["서정적임", "우수에 찬"],
+        "length": "짧음(3분 미만)",
+        "description": "짧고 아름다운 마주르카 형식의 곡입니다. 초급자가 감정을 싣는 방법과 포르타멘토 같은 클래식 기타 고유의 뉘앙스를 배우기 좋습니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Adelita+guitar"
+    },
+    {
+        "title": "Una Limosna por el Amor de Dios (신의 사랑을 위한 동전 한 닢)",
+        "composer": "Agustín Barrios Mangoré",
+        "difficulty": "고급",
+        "technique": ["트레몰로"],
+        "mood": ["서정적임", "우수에 찬"],
+        "length": "보통(3~5분)",
+        "description": "'최후의 트레몰로'라고도 불리는 곡으로, 문을 두드리는 듯한 베이스와 끊임없이 이어지는 애절한 트레몰로가 가슴을 깊게 울립니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Una+Limosna+por+el+Amor+de+Dios+guitar"
+    },
+    {
+        "title": "Tango en Skaï (가짜 가죽 탱고)",
+        "composer": "Roland Dyens",
+        "difficulty": "고급",
+        "technique": ["화음", "스케일"],
+        "mood": ["경쾌함", "남미풍"],
+        "length": "짧음(3분 미만)",
+        "description": "도발적이고 강렬한 탱고 리듬과 현대적인 기타 테크닉이 결합된 화려한 연주곡입니다. 리드미컬하고 타악기적인 효과가 특징입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Tango+en+Skai+guitar"
+    },
+    {
+        "title": "Estudios Sencillos No. 6 (쉬운 연습곡 6번)",
+        "composer": "Leo Brouwer",
+        "difficulty": "초급",
+        "technique": ["아르페지오"],
+        "mood": ["서정적임"],
+        "length": "짧음(3분 미만)",
+        "description": "현대 기타 음악의 거장 브라우어의 연습곡으로, 매우 단순한 구조 안에서도 몽환적이고 매력적인 아르페지오 패턴을 즐길 수 있습니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Leo+Brouwer+Estudio+6"
+    },
+    {
+        "title": "Vals Venezolano No. 2 'Andreina' (베네수엘라 왈츠 2번)",
+        "composer": "Antonio Lauro",
+        "difficulty": "고급",
+        "technique": ["아르페지오", "스케일"],
+        "mood": ["경쾌함", "남미풍"],
+        "length": "짧음(3분 미만)",
+        "description": "경쾌하고 눈부신 속도감이 특징인 안토니오 라우로의 남미 왈츠입니다. 베이스 라인과 멜로디의 교차를 매끄럽게 연주하는 것이 핵심입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Antonio+Lauro+Vals+Venezolano+No.2"
+    },
+    {
+        "title": "Sunburst (선버스트)",
+        "composer": "Andrew York",
+        "difficulty": "고급",
+        "technique": ["아르페지오", "화음"],
+        "mood": ["경쾌함"],
+        "length": "보통(3~5분)",
+        "description": "눈부신 햇살이 퍼져나가는 듯한 현대 기타 명곡입니다. 독특한 튜닝과 함께 질주하는 듯한 빠른 아르페지오가 압권입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Andrew+York+Sunburst+guitar"
+    },
+    {
+        "title": "Un Día de Noviembre (11월의 어느 날)",
+        "composer": "Leo Brouwer",
+        "difficulty": "중급",
+        "technique": ["아르페지오", "화음"],
+        "mood": ["서정적임", "우수에 찬"],
+        "length": "보통(3~5분)",
+        "description": "동명의 영화 주제곡으로 작곡된 곡으로, 가을에 어울리는 짙은 우수와 따뜻한 멜로디가 인상적입니다. 감정선 조절이 가장 중요합니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Un+Dia+de+Noviembre+guitar"
+    },
+    {
+        "title": "María Luisa (마리아 루이사)",
+        "composer": "Julio Sagreras",
+        "difficulty": "입문",
+        "technique": ["아르페지오"],
+        "mood": ["서정적임"],
+        "length": "짧음(3분 미만)",
+        "description": "기타에 갓 입문한 분들이 아르페지오의 기본기를 다지면서도 아름다운 선율을 연주해 볼 수 있는 훌륭한 왈츠풍 소품입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Maria+Luisa+Sagreras+guitar"
+    },
+    {
+        "title": "Julia Florida (훌리아 플로리다)",
+        "composer": "Agustín Barrios Mangoré",
+        "difficulty": "고급",
+        "technique": ["아르페지오", "화음"],
+        "mood": ["서정적임", "우수에 찬"],
+        "length": "보통(3~5분)",
+        "description": "바리오스의 바르카롤라(뱃노래)로 불리며, 물결 위를 흔들리는 듯한 리듬과 가슴을 파고드는 애절한 화성이 특징인 명곡입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Julia+Florida+guitar"
+    },
+    {
+        "title": "Gran Vals (위대한 왈츠)",
+        "composer": "Francisco Tárrega",
+        "difficulty": "중급",
+        "technique": ["스케일", "화음"],
+        "mood": ["경쾌함"],
+        "length": "짧음(3분 미만)",
+        "description": "과거 노키아(Nokia) 휴대폰의 기본 벨소리로 사용되어 전 세계에서 가장 유명한 기타 멜로디를 품고 있는 유쾌한 왈츠입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Gran+Vals+Tarrega+guitar"
+    },
+    {
+        "title": "El Testament d'Amèlia (아멜리아의 유언)",
+        "composer": "Miguel Llobet",
+        "difficulty": "중급",
+        "technique": ["화음"],
+        "mood": ["우수에 찬", "서정적임"],
+        "length": "짧음(3분 미만)",
+        "description": "카탈루냐 민요를 편곡한 곡으로, 곡 전반에 걸쳐 흐르는 인공 하모닉스의 영롱한 소리가 매우 구슬프고 아름다운 분위기를 자아냅니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=El+Testament+d%27Amelia+guitar"
+    },
+    {
+        "title": "Vals Venezolano No. 1 'Tatiana' (베네수엘라 왈츠 1번)",
+        "composer": "Antonio Lauro",
+        "difficulty": "중급",
+        "technique": ["아르페지오", "스케일"],
+        "mood": ["경쾌함", "남미풍"],
+        "length": "짧음(3분 미만)",
+        "description": "베네수엘라 왈츠 특유의 싱코페이션(당김음)이 매력적으로 녹아있는 곡입니다. 3번 나탈리아보다 비교적 접근하기 쉬우면서도 리듬감이 훌륭합니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Antonio+Lauro+Vals+Venezolano+No.1"
+    },
+    {
+        "title": "Estudio Op. 35 No. 17 (연습곡 35작품 17번)",
+        "composer": "Fernando Sor",
+        "difficulty": "초급",
+        "technique": ["스케일", "화음"],
+        "mood": ["서정적임"],
+        "length": "짧음(3분 미만)",
+        "description": "모차르트의 영향을 받은 페르난도 소르의 깔끔하고 단아한 고전주의 연습곡으로, 다성부 음악의 흐름을 이해하는 데 매우 좋습니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Sor+Estudio+Op+35+No+17"
+    },
+    {
+        "title": "Verano Porteño (부에노스아이레스의 여름)",
+        "composer": "Astor Piazzolla",
+        "difficulty": "고급",
+        "technique": ["화음", "스케일"],
+        "mood": ["남미풍", "웅장함"],
+        "length": "긺(5분 이상)",
+        "description": "탱고의 거장 피아졸라의 곡을 기타로 편곡한 작품입니다. 찌는 듯한 아르헨티나의 여름과 강렬한 열정을 복잡한 화성으로 표현해냅니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Verano+Porteno+guitar"
+    },
+    {
+        "title": "Sons de Carrilhões (종소리)",
+        "composer": "João Pernambuco",
+        "difficulty": "중급",
+        "technique": ["아르페지오", "스케일"],
+        "mood": ["경쾌함", "남미풍"],
+        "length": "짧음(3분 미만)",
+        "description": "브라질 쇼루(Choro) 음악의 경쾌함이 돋보이는 명곡입니다. 제목처럼 축제의 종이 울리는 듯한 흥겨운 베이스와 멜로디가 매력적입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Sons+de+Carrilhoes+guitar"
+    },
+    {
+        "title": "Koyunbaba (코윤바바)",
+        "composer": "Carlo Domeniconi",
+        "difficulty": "고급",
+        "technique": ["아르페지오", "스케일"],
+        "mood": ["웅장함", "우수에 찬"],
+        "length": "긺(5분 이상)",
+        "description": "독특한 조현법(오픈 C# 마이너 튜닝)을 사용하여 터키의 신비롭고 이국적인 울림을 내는 현대 기타의 압도적인 걸작입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Koyunbaba+guitar+John+Williams"
+    },
+    {
+        "title": "Cello Suite No. 1 - Prelude (무반주 첼로 모음곡 1번 프렐류드)",
+        "composer": "J.S. Bach",
+        "difficulty": "중급",
+        "technique": ["아르페지오"],
+        "mood": ["웅장함", "서정적임"],
+        "length": "보통(3~5분)",
+        "description": "바흐의 무반주 첼로 모음곡을 기타로 편곡한 곡으로, 끊임없이 이어지는 16분음표 아르페지오가 장엄한 분위기를 연출하는 필수 레퍼토리입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Bach+Cello+Suite+1+Prelude+guitar"
+    },
+    {
+        "title": "Choro de Saudade (향수의 쇼루)",
+        "composer": "Agustín Barrios Mangoré",
+        "difficulty": "고급",
+        "technique": ["화음", "아르페지오"],
+        "mood": ["남미풍", "우수에 찬"],
+        "length": "보통(3~5분)",
+        "description": "바리오스의 대표적인 남미풍 곡으로, 타향에서 고향 파라과이를 그리워하는 짙은 향수를 복잡한 화성과 폭발적인 아르페지오로 표현합니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Choro+de+Saudade+guitar"
+    },
+    {
+        "title": "Estudio Sin Luz (빛 없는 연습곡)",
+        "composer": "Andrés Segovia",
+        "difficulty": "중급",
+        "technique": ["아르페지오", "화음"],
+        "mood": ["우수에 찬", "서정적임"],
+        "length": "보통(3~5분)",
+        "description": "거장 세고비아가 눈 수술을 앞두고 시력을 잃을지도 모른다는 두려움 속에서 작곡한 곡으로, 애절하고 깊은 감정선이 돋보입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Estudio+Sin+Luz+guitar"
+    },
+    {
+        "title": "Scherzino Mexicano (멕시코풍 스케르치노)",
+        "composer": "Manuel M. Ponce",
+        "difficulty": "중급",
+        "technique": ["화음", "스케일"],
+        "mood": ["남미풍", "경쾌함"],
+        "length": "짧음(3분 미만)",
+        "description": "멕시코의 민속적인 리듬과 통통 튀는 경쾌한 멜로디가 어우러진 소품으로, 화음과 멜로디를 동시에 깔끔하게 살리는 연습에 좋습니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Scherzino+Mexicano+guitar"
+    },
+    {
+        "title": "Danza Española No. 5 'Andaluza' (스페인 무곡 5번 '안달루사')",
+        "composer": "Enrique Granados",
+        "difficulty": "고급",
+        "technique": ["화음", "스케일"],
+        "mood": ["우수에 찬", "웅장함"],
+        "length": "보통(3~5분)",
+        "description": "스페인 안달루시아 지방의 정열과 우수가 가득 담긴 그라나도스의 피아노 원곡을 편곡한 곡으로, 강렬한 리듬과 매혹적인 멜로디 라인이 특징입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Danza+Espanola+No+5+guitar"
+    },
+    {
+        "title": "María (Gavota) (마리아 - 가보트)",
+        "composer": "Francisco Tárrega",
+        "difficulty": "중급",
+        "technique": ["스케일", "화음"],
+        "mood": ["경쾌함", "서정적임"],
+        "length": "짧음(3분 미만)",
+        "description": "타레가의 우아하고 사랑스러운 가보트 형식의 소품입니다. 통통 튀는 스타카토와 사랑스러운 멜로디를 살려 연주하는 것이 포인트입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Tarrega+Maria+Gavota"
+    },
+    {
+        "title": "Canon in D (캐논 변주곡)",
+        "composer": "Johann Pachelbel",
+        "difficulty": "초급",
+        "technique": ["아르페지오", "화음"],
+        "mood": ["서정적임", "웅장함"],
+        "length": "보통(3~5분)",
+        "description": "대중적으로 가장 널리 알려진 클래식 명곡입니다. 초급자가 아름다운 화성과 아르페지오를 연습하며 훌륭한 연주곡을 완성하기에 최적입니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Canon+in+D+classic+guitar"
+    },
+    {
+        "title": "Gymnopédie No. 1 (짐노페디 1번)",
+        "composer": "Erik Satie",
+        "difficulty": "초급",
+        "technique": ["화음"],
+        "mood": ["우수에 찬", "서정적임"],
+        "length": "보통(3~5분)",
+        "description": "에릭 사티의 몽환적이고 정적인 피아노곡을 기타로 옮긴 곡입니다. 느린 템포 안에서 코드의 울림을 길게 유지하며 여백의 미를 살려야 합니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Gymnopedie+1+guitar"
+    },
+    {
+        "title": "Prelude No. 1 (프렐류드 1번)",
+        "composer": "Heitor Villa-Lobos",
+        "difficulty": "고급",
+        "technique": ["화음", "아르페지오"],
+        "mood": ["남미풍", "우수에 찬"],
+        "length": "보통(3~5분)",
+        "description": "브라질의 거장 빌라 로보스의 프렐류드 중 가장 유명한 곡으로, 첼로를 연상시키는 묵직한 베이스 멜로디와 남미 특유의 짙은 우수가 가득 담겨 있습니다.",
+        "youtube_url": "https://www.youtube.com/results?search_query=Villa+Lobos+Prelude+1+guitar"
+    }
+]
