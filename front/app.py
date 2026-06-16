@@ -70,7 +70,6 @@ elif st.session_state.step == 'result':
     
     with st.spinner('맞춤형 알고리즘과 AI 멘토가 분석 중입니다...'):
         try:
-            # Docker 환경 변수 처리 (기본값은 로컬호스트)
             api_url = os.environ.get("API_URL", "http://localhost:8000/recommend")
             response = requests.post(api_url, json=st.session_state.payload, timeout=30)
             
