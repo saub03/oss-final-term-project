@@ -47,30 +47,31 @@ async def recommend_repertoire(user_input: GuitarInput):
     
     for song in SONG_DB:
         score = 0
-        song_level = level_map.get(song["difficulty"], 1)
-        
-        if song_level - user_level >= 2:
-            continue 
-            
+        song_level = level_map.get(song.get("difficulty", "입문"), 1)
+
         if user_level <= 2 and song_level <= 2:
-            score += 2
+            score += 3  
         elif user_level >= 3 and song_level >= 3:
-            score += 2
+            score += 3  
+        elif abs(song_level - user_level) >= 2:
+            score -= 1  
             
         if user_input.desired_difficulty == "쉬움" and song_level <= user_level:
             score += 3
         elif user_input.desired_difficulty == "적절함" and song_level == user_level:
             score += 3
-        elif user_input.desired_difficulty == "도전적" and song_level == user_level + 1:
+        elif user_input.desired_difficulty == "도전적" and (song_level == user_level + 1 or (user_level == 4 and song_level == 4)):
             score += 3
             
-        if user_input.technique in song["technique"]: score += 2
-        if user_input.mood in song["mood"]: score += 2
-        if user_input.length == song["length"]: score += 1
+        if user_input.technique in song.get("technique", []): score += 2
+        if user_input.mood in song.get("mood", []): score += 2
+        if user_input.length == song.get("length", ""): score += 1
             
         if score > 0:
             scored_songs.append({"song": song, "score": score})
             
+    import random
+    random.shuffle(scored_songs)
     scored_songs.sort(key=lambda x: x["score"], reverse=True)
     
     results = []
